@@ -1,2 +1,4 @@
 # testgit
-learning git
+learning
+test commit
+test status
